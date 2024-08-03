@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+/bin
+/include
+/lib
+/lib64
+/myenv
+/rupiah-detection
+/runs
+ultralytics
+torch*
+yolo-Weights

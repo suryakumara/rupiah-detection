@@ -1,2 +1,0 @@
-# rupiah-detection
-# rupiah-detection
