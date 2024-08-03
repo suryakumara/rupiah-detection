@@ -6,6 +6,6 @@
 /myenv
 /rupiah-detection
 /runs
-ultralytics
+/ultralytics
 torch*
 yolo-Weights
